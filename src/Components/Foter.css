@@ -1,0 +1,27 @@
+   *{
+    margin: 0;
+    padding: 0;
+   }
+   .footer1 {
+    /* margin-top: 0rem;s */
+      padding: 20px;
+      background-color: #e0e0e0;
+      display: flex; 
+      justify-content: center; 
+      align-items: center; 
+    }
+    
+    .footer1 p {
+      margin: 0;
+      font-size: 20px;
+      margin-right: 10px; 
+    }
+    
+    .counter {
+      font-size: 25px;
+      background: #ffffff;
+      padding: 5px 10px;
+      border-radius: 5px;
+      display: inline-block;
+    }
+    
